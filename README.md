@@ -1,1 +1,1 @@
-Practicando con Bootstrap 5.
+Ejemplos prácticos con Bootstrap 5.
